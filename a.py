@@ -1,3 +1,4 @@
+
 print(100)
 print(200) 
 #hic hic
@@ -8,3 +9,4 @@ print("ahihi do ngoc")
 
 
 print("i love blue")
+
