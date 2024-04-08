@@ -14,3 +14,5 @@ print(s)
 
 
 print(1 + 1)
+def Xoa(a):
+    return a+1;
