@@ -1,15 +1,15 @@
 
-print(100)
-print(200) 
-#hic hic
+print(300)
 
-print("edit local")
+#nooooo Thanh Minh
+
+print("MU vo doi")
 #thoi xoa het toi lam lai 
 print("ahihi do ngoc")
 
 
-
-print("i love liver")
+s = "Thhanh Minh"
+print(s)
 
 
 
