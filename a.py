@@ -8,5 +8,5 @@ print("edit local")
 print("ahihi do ngoc")
 
 
-print("i love blue")
+print("i love mu")
 
